@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp2.1\EqualNumbers.deps.json
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp2.1\EqualNumbers.runtimeconfig.json
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp2.1\EqualNumbers.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp2.1\EqualNumbers.dll
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\bin\Debug\netcoreapp2.1\EqualNumbers.pdb
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp2.1\EqualNumbers.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp2.1\EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp2.1\EqualNumbers.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp2.1\EqualNumbers.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp2.1\EqualNumbers.dll
+C:\Users\konsio\Desktop\da\EqualNumbers\EqualNumbers\obj\Debug\netcoreapp2.1\EqualNumbers.pdb

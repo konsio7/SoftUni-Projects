@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.deps.json
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.dll
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.pdb
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.dll
+C:\Users\konsio\Desktop\da\ThreeBrothers\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.pdb

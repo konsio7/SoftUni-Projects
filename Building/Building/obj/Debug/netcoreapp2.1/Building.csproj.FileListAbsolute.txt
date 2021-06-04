@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Building\Building\bin\Debug\netcoreapp2.1\Building.deps.json
+C:\Users\konsio\Desktop\da\Building\Building\bin\Debug\netcoreapp2.1\Building.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Building\Building\bin\Debug\netcoreapp2.1\Building.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Building\Building\bin\Debug\netcoreapp2.1\Building.dll
+C:\Users\konsio\Desktop\da\Building\Building\bin\Debug\netcoreapp2.1\Building.pdb
+C:\Users\konsio\Desktop\da\Building\Building\obj\Debug\netcoreapp2.1\Building.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Building\Building\obj\Debug\netcoreapp2.1\Building.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Building\Building\obj\Debug\netcoreapp2.1\Building.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Building\Building\obj\Debug\netcoreapp2.1\Building.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Building\Building\obj\Debug\netcoreapp2.1\Building.dll
+C:\Users\konsio\Desktop\da\Building\Building\obj\Debug\netcoreapp2.1\Building.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.deps.json
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.runtimeconfig.json
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.dll
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.pdb
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.dll
+C:\Users\konsio\Desktop\da\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.pdb

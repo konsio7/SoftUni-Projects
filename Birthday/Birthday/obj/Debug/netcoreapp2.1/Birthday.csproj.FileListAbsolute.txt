@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Birthday\Birthday\bin\Debug\netcoreapp2.1\Birthday.deps.json
+C:\Users\konsio\Desktop\da\Birthday\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Birthday\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Birthday\Birthday\bin\Debug\netcoreapp2.1\Birthday.dll
+C:\Users\konsio\Desktop\da\Birthday\Birthday\bin\Debug\netcoreapp2.1\Birthday.pdb
+C:\Users\konsio\Desktop\da\Birthday\Birthday\obj\Debug\netcoreapp2.1\Birthday.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Birthday\Birthday\obj\Debug\netcoreapp2.1\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Birthday\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Birthday\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Birthday\Birthday\obj\Debug\netcoreapp2.1\Birthday.dll
+C:\Users\konsio\Desktop\da\Birthday\Birthday\obj\Debug\netcoreapp2.1\Birthday.pdb

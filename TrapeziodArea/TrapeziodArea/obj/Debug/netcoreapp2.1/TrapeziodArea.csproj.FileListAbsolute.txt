@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\bin\Debug\netcoreapp2.1\TrapeziodArea.deps.json
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\bin\Debug\netcoreapp2.1\TrapeziodArea.runtimeconfig.json
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\bin\Debug\netcoreapp2.1\TrapeziodArea.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\bin\Debug\netcoreapp2.1\TrapeziodArea.dll
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\bin\Debug\netcoreapp2.1\TrapeziodArea.pdb
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\obj\Debug\netcoreapp2.1\TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\obj\Debug\netcoreapp2.1\TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\obj\Debug\netcoreapp2.1\TrapeziodArea.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\obj\Debug\netcoreapp2.1\TrapeziodArea.dll
+C:\Users\konsio\Desktop\da\TrapeziodArea\TrapeziodArea\obj\Debug\netcoreapp2.1\TrapeziodArea.pdb

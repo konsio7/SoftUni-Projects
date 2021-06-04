@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.deps.json
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.dll
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\bin\Debug\netcoreapp2.1\Nums1To20.pdb
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.dll
+C:\Users\konsio\Desktop\da\Nums1To20\Nums1To20\obj\Debug\netcoreapp2.1\Nums1To20.pdb

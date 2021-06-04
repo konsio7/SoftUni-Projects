@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\bin\Debug\netcoreapp2.1\NewHouse.deps.json
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\bin\Debug\netcoreapp2.1\NewHouse.runtimeconfig.json
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\bin\Debug\netcoreapp2.1\NewHouse.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\bin\Debug\netcoreapp2.1\NewHouse.dll
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\bin\Debug\netcoreapp2.1\NewHouse.pdb
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\obj\Debug\netcoreapp2.1\NewHouse.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\obj\Debug\netcoreapp2.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\obj\Debug\netcoreapp2.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\obj\Debug\netcoreapp2.1\NewHouse.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\obj\Debug\netcoreapp2.1\NewHouse.dll
+C:\Users\konsio\Desktop\da\NewHouse\NewHouse\obj\Debug\netcoreapp2.1\NewHouse.pdb

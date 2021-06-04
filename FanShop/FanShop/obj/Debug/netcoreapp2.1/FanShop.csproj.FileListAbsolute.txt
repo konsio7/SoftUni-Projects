@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\FanShop\FanShop\bin\Debug\netcoreapp2.1\FanShop.deps.json
+C:\Users\konsio\Desktop\da\FanShop\FanShop\bin\Debug\netcoreapp2.1\FanShop.runtimeconfig.json
+C:\Users\konsio\Desktop\da\FanShop\FanShop\bin\Debug\netcoreapp2.1\FanShop.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\FanShop\FanShop\bin\Debug\netcoreapp2.1\FanShop.dll
+C:\Users\konsio\Desktop\da\FanShop\FanShop\bin\Debug\netcoreapp2.1\FanShop.pdb
+C:\Users\konsio\Desktop\da\FanShop\FanShop\obj\Debug\netcoreapp2.1\FanShop.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\FanShop\FanShop\obj\Debug\netcoreapp2.1\FanShop.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\FanShop\FanShop\obj\Debug\netcoreapp2.1\FanShop.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\FanShop\FanShop\obj\Debug\netcoreapp2.1\FanShop.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\FanShop\FanShop\obj\Debug\netcoreapp2.1\FanShop.dll
+C:\Users\konsio\Desktop\da\FanShop\FanShop\obj\Debug\netcoreapp2.1\FanShop.pdb

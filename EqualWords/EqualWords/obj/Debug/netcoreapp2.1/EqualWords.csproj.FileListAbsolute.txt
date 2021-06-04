@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.deps.json
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.runtimeconfig.json
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.dll
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.pdb
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.dll
+C:\Users\konsio\Desktop\da\EqualWords\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.pdb

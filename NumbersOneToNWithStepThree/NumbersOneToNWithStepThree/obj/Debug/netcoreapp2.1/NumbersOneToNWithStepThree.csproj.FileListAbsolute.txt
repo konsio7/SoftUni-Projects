@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\bin\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.deps.json
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\bin\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.runtimeconfig.json
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\bin\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\bin\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.dll
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\bin\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.pdb
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\obj\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\obj\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\obj\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\obj\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\obj\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.dll
+C:\Users\konsio\Desktop\da\NumbersOneToNWithStepThree\NumbersOneToNWithStepThree\obj\Debug\netcoreapp2.1\NumbersOneToNWithStepThree.pdb

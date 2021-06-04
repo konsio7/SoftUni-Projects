@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\bin\Debug\netcoreapp2.1\TriangleCalculations.deps.json
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\bin\Debug\netcoreapp2.1\TriangleCalculations.runtimeconfig.json
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\bin\Debug\netcoreapp2.1\TriangleCalculations.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\bin\Debug\netcoreapp2.1\TriangleCalculations.dll
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\bin\Debug\netcoreapp2.1\TriangleCalculations.pdb
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\obj\Debug\netcoreapp2.1\TriangleCalculations.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\obj\Debug\netcoreapp2.1\TriangleCalculations.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\obj\Debug\netcoreapp2.1\TriangleCalculations.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\obj\Debug\netcoreapp2.1\TriangleCalculations.dll
+C:\Users\konsio\Desktop\da\TriangleCalculations\TriangleCalculations\obj\Debug\netcoreapp2.1\TriangleCalculations.pdb

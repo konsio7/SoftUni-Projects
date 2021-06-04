@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.deps.json
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.runtimeconfig.json
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.dll
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.pdb
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.dll
+C:\Users\konsio\Desktop\da\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.pdb

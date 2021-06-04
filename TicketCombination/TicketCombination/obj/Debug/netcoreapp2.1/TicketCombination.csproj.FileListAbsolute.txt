@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\bin\Debug\netcoreapp2.1\TicketCombination.deps.json
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\bin\Debug\netcoreapp2.1\TicketCombination.runtimeconfig.json
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\bin\Debug\netcoreapp2.1\TicketCombination.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\bin\Debug\netcoreapp2.1\TicketCombination.dll
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\bin\Debug\netcoreapp2.1\TicketCombination.pdb
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\obj\Debug\netcoreapp2.1\TicketCombination.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\obj\Debug\netcoreapp2.1\TicketCombination.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\obj\Debug\netcoreapp2.1\TicketCombination.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\obj\Debug\netcoreapp2.1\TicketCombination.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\obj\Debug\netcoreapp2.1\TicketCombination.dll
+C:\Users\konsio\Desktop\da\TicketCombination\TicketCombination\obj\Debug\netcoreapp2.1\TicketCombination.pdb

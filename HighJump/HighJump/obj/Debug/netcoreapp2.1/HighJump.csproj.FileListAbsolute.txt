@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\HighJump\HighJump\bin\Debug\netcoreapp2.1\HighJump.deps.json
+C:\Users\konsio\Desktop\da\HighJump\HighJump\bin\Debug\netcoreapp2.1\HighJump.runtimeconfig.json
+C:\Users\konsio\Desktop\da\HighJump\HighJump\bin\Debug\netcoreapp2.1\HighJump.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\HighJump\HighJump\bin\Debug\netcoreapp2.1\HighJump.dll
+C:\Users\konsio\Desktop\da\HighJump\HighJump\bin\Debug\netcoreapp2.1\HighJump.pdb
+C:\Users\konsio\Desktop\da\HighJump\HighJump\obj\Debug\netcoreapp2.1\HighJump.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\HighJump\HighJump\obj\Debug\netcoreapp2.1\HighJump.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\HighJump\HighJump\obj\Debug\netcoreapp2.1\HighJump.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\HighJump\HighJump\obj\Debug\netcoreapp2.1\HighJump.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\HighJump\HighJump\obj\Debug\netcoreapp2.1\HighJump.dll
+C:\Users\konsio\Desktop\da\HighJump\HighJump\obj\Debug\netcoreapp2.1\HighJump.pdb

@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\Combination\Combination\bin\Debug\netcoreapp2.1\Combination.deps.json
+C:\Users\konsio\Desktop\da\Combination\Combination\bin\Debug\netcoreapp2.1\Combination.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Combination\Combination\bin\Debug\netcoreapp2.1\Combination.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Combination\Combination\bin\Debug\netcoreapp2.1\Combination.dll
+C:\Users\konsio\Desktop\da\Combination\Combination\bin\Debug\netcoreapp2.1\Combination.pdb
+C:\Users\konsio\Desktop\da\Combination\Combination\obj\Debug\netcoreapp2.1\Combination.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Combination\Combination\obj\Debug\netcoreapp2.1\Combination.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Combination\Combination\obj\Debug\netcoreapp2.1\Combination.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Combination\Combination\obj\Debug\netcoreapp2.1\Combination.dll
+C:\Users\konsio\Desktop\da\Combination\Combination\obj\Debug\netcoreapp2.1\Combination.pdb

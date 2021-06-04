@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.deps.json
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.runtimeconfig.json
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.dll
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.pdb
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.dll
+C:\Users\konsio\Desktop\da\FruitShop\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.pdb

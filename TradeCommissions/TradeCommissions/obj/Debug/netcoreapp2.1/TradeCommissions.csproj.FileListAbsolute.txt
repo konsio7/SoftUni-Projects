@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\bin\Debug\netcoreapp2.1\TradeCommissions.deps.json
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\bin\Debug\netcoreapp2.1\TradeCommissions.runtimeconfig.json
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\bin\Debug\netcoreapp2.1\TradeCommissions.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\bin\Debug\netcoreapp2.1\TradeCommissions.dll
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\bin\Debug\netcoreapp2.1\TradeCommissions.pdb
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\obj\Debug\netcoreapp2.1\TradeCommissions.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\obj\Debug\netcoreapp2.1\TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\obj\Debug\netcoreapp2.1\TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\obj\Debug\netcoreapp2.1\TradeCommissions.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\obj\Debug\netcoreapp2.1\TradeCommissions.dll
+C:\Users\konsio\Desktop\da\TradeCommissions\TradeCommissions\obj\Debug\netcoreapp2.1\TradeCommissions.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\bin\Debug\netcoreapp2.1\NumbersEndingInSeven.deps.json
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\bin\Debug\netcoreapp2.1\NumbersEndingInSeven.runtimeconfig.json
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\bin\Debug\netcoreapp2.1\NumbersEndingInSeven.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\bin\Debug\netcoreapp2.1\NumbersEndingInSeven.dll
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\bin\Debug\netcoreapp2.1\NumbersEndingInSeven.pdb
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\obj\Debug\netcoreapp2.1\NumbersEndingInSeven.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\obj\Debug\netcoreapp2.1\NumbersEndingInSeven.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\obj\Debug\netcoreapp2.1\NumbersEndingInSeven.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\obj\Debug\netcoreapp2.1\NumbersEndingInSeven.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\obj\Debug\netcoreapp2.1\NumbersEndingInSeven.dll
+C:\Users\konsio\Desktop\da\NumbersEndingInSeven\NumbersEndingInSeven\obj\Debug\netcoreapp2.1\NumbersEndingInSeven.pdb

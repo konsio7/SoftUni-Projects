@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\bin\Debug\netcoreapp2.1\FishingBoat.deps.json
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\bin\Debug\netcoreapp2.1\FishingBoat.runtimeconfig.json
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\bin\Debug\netcoreapp2.1\FishingBoat.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\bin\Debug\netcoreapp2.1\FishingBoat.dll
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\bin\Debug\netcoreapp2.1\FishingBoat.pdb
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\obj\Debug\netcoreapp2.1\FishingBoat.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\obj\Debug\netcoreapp2.1\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\obj\Debug\netcoreapp2.1\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\obj\Debug\netcoreapp2.1\FishingBoat.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\obj\Debug\netcoreapp2.1\FishingBoat.dll
+C:\Users\konsio\Desktop\da\FishingBoat\FishingBoat\obj\Debug\netcoreapp2.1\FishingBoat.pdb

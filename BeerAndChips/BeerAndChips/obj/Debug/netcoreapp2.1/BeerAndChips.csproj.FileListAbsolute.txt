@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.deps.json
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.runtimeconfig.json
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.dll
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\bin\Debug\netcoreapp2.1\BeerAndChips.pdb
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.dll
+C:\Users\konsio\Desktop\da\BeerAndChips\BeerAndChips\obj\Debug\netcoreapp2.1\BeerAndChips.pdb

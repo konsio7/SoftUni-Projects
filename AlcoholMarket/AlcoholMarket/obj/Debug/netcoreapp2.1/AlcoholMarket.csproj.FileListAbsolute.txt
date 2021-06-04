@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp2.1\AlcoholMarket.deps.json
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp2.1\AlcoholMarket.runtimeconfig.json
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp2.1\AlcoholMarket.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp2.1\AlcoholMarket.dll
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp2.1\AlcoholMarket.pdb
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp2.1\AlcoholMarket.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp2.1\AlcoholMarket.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp2.1\AlcoholMarket.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp2.1\AlcoholMarket.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp2.1\AlcoholMarket.dll
+C:\Users\konsio\Desktop\da\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp2.1\AlcoholMarket.pdb

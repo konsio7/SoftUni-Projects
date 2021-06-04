@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.deps.json
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.runtimeconfig.json
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.dll
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp2.1\TailoringWorkshop.pdb
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.dll
+C:\Users\konsio\Desktop\da\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp2.1\TailoringWorkshop.pdb

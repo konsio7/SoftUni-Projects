@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.deps.json
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.runtimeconfig.json
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.dll
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\bin\Debug\netcoreapp2.1\GreaterNumber.pdb
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.dll
+C:\Users\konsio\Desktop\da\GreaterNumber\GreaterNumber\obj\Debug\netcoreapp2.1\GreaterNumber.pdb

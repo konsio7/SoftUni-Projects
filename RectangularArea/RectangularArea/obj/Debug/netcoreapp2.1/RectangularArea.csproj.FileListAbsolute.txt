@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\bin\Debug\netcoreapp2.1\RectangularArea.deps.json
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\bin\Debug\netcoreapp2.1\RectangularArea.runtimeconfig.json
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\bin\Debug\netcoreapp2.1\RectangularArea.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\bin\Debug\netcoreapp2.1\RectangularArea.dll
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\bin\Debug\netcoreapp2.1\RectangularArea.pdb
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\obj\Debug\netcoreapp2.1\RectangularArea.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\obj\Debug\netcoreapp2.1\RectangularArea.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\obj\Debug\netcoreapp2.1\RectangularArea.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\obj\Debug\netcoreapp2.1\RectangularArea.dll
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\obj\Debug\netcoreapp2.1\RectangularArea.pdb
+C:\Users\konsio\Desktop\da\RectangularArea\RectangularArea\obj\Debug\netcoreapp2.1\RectangularArea.csprojAssemblyReference.cache

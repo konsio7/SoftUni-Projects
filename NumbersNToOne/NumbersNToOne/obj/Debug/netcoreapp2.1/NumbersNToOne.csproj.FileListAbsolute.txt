@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\bin\Debug\netcoreapp2.1\NumbersNToOne.deps.json
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\bin\Debug\netcoreapp2.1\NumbersNToOne.runtimeconfig.json
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\bin\Debug\netcoreapp2.1\NumbersNToOne.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\bin\Debug\netcoreapp2.1\NumbersNToOne.dll
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\bin\Debug\netcoreapp2.1\NumbersNToOne.pdb
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\obj\Debug\netcoreapp2.1\NumbersNToOne.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\obj\Debug\netcoreapp2.1\NumbersNToOne.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\obj\Debug\netcoreapp2.1\NumbersNToOne.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\obj\Debug\netcoreapp2.1\NumbersNToOne.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\obj\Debug\netcoreapp2.1\NumbersNToOne.dll
+C:\Users\konsio\Desktop\da\NumbersNToOne\NumbersNToOne\obj\Debug\netcoreapp2.1\NumbersNToOne.pdb

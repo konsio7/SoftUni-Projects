@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.deps.json
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.dll
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.pdb
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.dll
+C:\Users\konsio\Desktop\da\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.pdb

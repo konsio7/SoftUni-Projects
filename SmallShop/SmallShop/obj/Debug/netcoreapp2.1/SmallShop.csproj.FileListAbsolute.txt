@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\bin\Debug\netcoreapp2.1\SmallShop.deps.json
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\bin\Debug\netcoreapp2.1\SmallShop.runtimeconfig.json
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\bin\Debug\netcoreapp2.1\SmallShop.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\bin\Debug\netcoreapp2.1\SmallShop.dll
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\bin\Debug\netcoreapp2.1\SmallShop.pdb
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\obj\Debug\netcoreapp2.1\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\obj\Debug\netcoreapp2.1\SmallShop.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\obj\Debug\netcoreapp2.1\SmallShop.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\obj\Debug\netcoreapp2.1\SmallShop.dll
+C:\Users\konsio\Desktop\da\SmallShop\SmallShop\obj\Debug\netcoreapp2.1\SmallShop.pdb

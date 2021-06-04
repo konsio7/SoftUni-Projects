@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\bin\Debug\netcoreapp2.1\IsGradeExcellent.deps.json
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\bin\Debug\netcoreapp2.1\IsGradeExcellent.runtimeconfig.json
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\bin\Debug\netcoreapp2.1\IsGradeExcellent.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\bin\Debug\netcoreapp2.1\IsGradeExcellent.dll
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\bin\Debug\netcoreapp2.1\IsGradeExcellent.pdb
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\obj\Debug\netcoreapp2.1\IsGradeExcellent.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\obj\Debug\netcoreapp2.1\IsGradeExcellent.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\obj\Debug\netcoreapp2.1\IsGradeExcellent.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\obj\Debug\netcoreapp2.1\IsGradeExcellent.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\obj\Debug\netcoreapp2.1\IsGradeExcellent.dll
+C:\Users\konsio\Desktop\da\IsGradeExcellent\IsGradeExcellent\obj\Debug\netcoreapp2.1\IsGradeExcellent.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\NameWars\NameWars\bin\Debug\netcoreapp2.1\NameWars.deps.json
+C:\Users\konsio\Desktop\da\NameWars\NameWars\bin\Debug\netcoreapp2.1\NameWars.runtimeconfig.json
+C:\Users\konsio\Desktop\da\NameWars\NameWars\bin\Debug\netcoreapp2.1\NameWars.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\NameWars\NameWars\bin\Debug\netcoreapp2.1\NameWars.dll
+C:\Users\konsio\Desktop\da\NameWars\NameWars\bin\Debug\netcoreapp2.1\NameWars.pdb
+C:\Users\konsio\Desktop\da\NameWars\NameWars\obj\Debug\netcoreapp2.1\NameWars.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\NameWars\NameWars\obj\Debug\netcoreapp2.1\NameWars.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\NameWars\NameWars\obj\Debug\netcoreapp2.1\NameWars.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\NameWars\NameWars\obj\Debug\netcoreapp2.1\NameWars.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\NameWars\NameWars\obj\Debug\netcoreapp2.1\NameWars.dll
+C:\Users\konsio\Desktop\da\NameWars\NameWars\obj\Debug\netcoreapp2.1\NameWars.pdb

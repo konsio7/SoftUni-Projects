@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.deps.json
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.runtimeconfig.json
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.dll
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.pdb
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.dll
+C:\Users\konsio\Desktop\da\BonusScore\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.deps.json
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.dll
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\bin\Debug\netcoreapp2.1\ToyShop.pdb
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.dll
+C:\Users\konsio\Desktop\da\ToyShop\ToyShop\obj\Debug\netcoreapp2.1\ToyShop.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.deps.json
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.runtimeconfig.json
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.dll
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.pdb
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.dll
+C:\Users\konsio\Desktop\da\PersonalTitles\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.pdb

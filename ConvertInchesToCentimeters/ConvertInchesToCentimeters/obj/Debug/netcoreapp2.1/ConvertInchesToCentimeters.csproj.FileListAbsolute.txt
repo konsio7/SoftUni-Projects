@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\bin\Debug\netcoreapp2.1\ConvertInchesToCentimeters.deps.json
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\bin\Debug\netcoreapp2.1\ConvertInchesToCentimeters.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\bin\Debug\netcoreapp2.1\ConvertInchesToCentimeters.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\bin\Debug\netcoreapp2.1\ConvertInchesToCentimeters.dll
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\bin\Debug\netcoreapp2.1\ConvertInchesToCentimeters.pdb
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\obj\Debug\netcoreapp2.1\ConvertInchesToCentimeters.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\obj\Debug\netcoreapp2.1\ConvertInchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\obj\Debug\netcoreapp2.1\ConvertInchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\obj\Debug\netcoreapp2.1\ConvertInchesToCentimeters.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\obj\Debug\netcoreapp2.1\ConvertInchesToCentimeters.dll
+C:\Users\konsio\Desktop\da\ConvertInchesToCentimeters\ConvertInchesToCentimeters\obj\Debug\netcoreapp2.1\ConvertInchesToCentimeters.pdb

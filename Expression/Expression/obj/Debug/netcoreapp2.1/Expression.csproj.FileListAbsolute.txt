@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.deps.json
+C:\Users\konsio\Desktop\da\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.dll
+C:\Users\konsio\Desktop\da\Expression\Expression\bin\Debug\netcoreapp2.1\Expression.pdb
+C:\Users\konsio\Desktop\da\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.dll
+C:\Users\konsio\Desktop\da\Expression\Expression\obj\Debug\netcoreapp2.1\Expression.pdb

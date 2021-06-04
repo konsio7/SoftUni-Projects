@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.deps.json
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.json
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\bin\Debug\netcoreapp2.1\PointInRectangle.pdb
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.dll
+C:\Users\konsio\Desktop\da\PointInRectangle\PointInRectangle\obj\Debug\netcoreapp2.1\PointInRectangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.deps.json
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.runtimeconfig.json
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.dll
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.pdb
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.dll
+C:\Users\konsio\Desktop\da\CookieFactory\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.deps.json
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.runtimeconfig.json
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.dll
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.pdb
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.dll
+C:\Users\konsio\Desktop\da\MetricConverter\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.pdb

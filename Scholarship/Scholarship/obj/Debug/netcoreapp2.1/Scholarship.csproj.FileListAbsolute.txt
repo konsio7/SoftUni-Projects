@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\bin\Debug\netcoreapp2.1\Scholarship.deps.json
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\bin\Debug\netcoreapp2.1\Scholarship.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\bin\Debug\netcoreapp2.1\Scholarship.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\bin\Debug\netcoreapp2.1\Scholarship.dll
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\bin\Debug\netcoreapp2.1\Scholarship.pdb
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\obj\Debug\netcoreapp2.1\Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\obj\Debug\netcoreapp2.1\Scholarship.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\obj\Debug\netcoreapp2.1\Scholarship.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\obj\Debug\netcoreapp2.1\Scholarship.dll
+C:\Users\konsio\Desktop\da\Scholarship\Scholarship\obj\Debug\netcoreapp2.1\Scholarship.pdb

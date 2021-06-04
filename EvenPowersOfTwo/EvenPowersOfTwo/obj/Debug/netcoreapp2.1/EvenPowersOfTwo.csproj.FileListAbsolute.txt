@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\bin\Debug\netcoreapp2.1\EvenPowersOfTwo.deps.json
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\bin\Debug\netcoreapp2.1\EvenPowersOfTwo.runtimeconfig.json
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\bin\Debug\netcoreapp2.1\EvenPowersOfTwo.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\bin\Debug\netcoreapp2.1\EvenPowersOfTwo.dll
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\bin\Debug\netcoreapp2.1\EvenPowersOfTwo.pdb
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\obj\Debug\netcoreapp2.1\EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\obj\Debug\netcoreapp2.1\EvenPowersOfTwo.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\obj\Debug\netcoreapp2.1\EvenPowersOfTwo.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\obj\Debug\netcoreapp2.1\EvenPowersOfTwo.dll
+C:\Users\konsio\Desktop\da\EvenPowersOfTwo\EvenPowersOfTwo\obj\Debug\netcoreapp2.1\EvenPowersOfTwo.pdb

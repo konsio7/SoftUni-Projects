@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\bin\Debug\netcoreapp2.1\CircleCalculations.deps.json
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\bin\Debug\netcoreapp2.1\CircleCalculations.runtimeconfig.json
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\bin\Debug\netcoreapp2.1\CircleCalculations.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\bin\Debug\netcoreapp2.1\CircleCalculations.dll
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\bin\Debug\netcoreapp2.1\CircleCalculations.pdb
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\obj\Debug\netcoreapp2.1\CircleCalculations.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\obj\Debug\netcoreapp2.1\CircleCalculations.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\obj\Debug\netcoreapp2.1\CircleCalculations.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\obj\Debug\netcoreapp2.1\CircleCalculations.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\obj\Debug\netcoreapp2.1\CircleCalculations.dll
+C:\Users\konsio\Desktop\da\CircleCalculations\CircleCalculations\obj\Debug\netcoreapp2.1\CircleCalculations.pdb

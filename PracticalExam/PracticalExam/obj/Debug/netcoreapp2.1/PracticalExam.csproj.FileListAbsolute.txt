@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\bin\Debug\netcoreapp2.1\PracticalExam.deps.json
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\bin\Debug\netcoreapp2.1\PracticalExam.runtimeconfig.json
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\bin\Debug\netcoreapp2.1\PracticalExam.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\bin\Debug\netcoreapp2.1\PracticalExam.dll
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\bin\Debug\netcoreapp2.1\PracticalExam.pdb
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\obj\Debug\netcoreapp2.1\PracticalExam.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\obj\Debug\netcoreapp2.1\PracticalExam.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\obj\Debug\netcoreapp2.1\PracticalExam.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\obj\Debug\netcoreapp2.1\PracticalExam.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\obj\Debug\netcoreapp2.1\PracticalExam.dll
+C:\Users\konsio\Desktop\da\PracticalExam\PracticalExam\obj\Debug\netcoreapp2.1\PracticalExam.pdb

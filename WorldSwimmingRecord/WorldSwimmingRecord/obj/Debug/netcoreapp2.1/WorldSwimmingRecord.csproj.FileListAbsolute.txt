@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.deps.json
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+C:\Users\konsio\Desktop\da\WorldSwimmingRecord\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb

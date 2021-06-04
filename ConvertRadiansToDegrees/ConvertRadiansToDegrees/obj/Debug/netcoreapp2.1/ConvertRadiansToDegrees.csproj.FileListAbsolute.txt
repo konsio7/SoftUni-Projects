@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\bin\Debug\netcoreapp2.1\ConvertRadiansToDegrees.deps.json
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\bin\Debug\netcoreapp2.1\ConvertRadiansToDegrees.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\bin\Debug\netcoreapp2.1\ConvertRadiansToDegrees.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\bin\Debug\netcoreapp2.1\ConvertRadiansToDegrees.dll
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\bin\Debug\netcoreapp2.1\ConvertRadiansToDegrees.pdb
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\obj\Debug\netcoreapp2.1\ConvertRadiansToDegrees.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\obj\Debug\netcoreapp2.1\ConvertRadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\obj\Debug\netcoreapp2.1\ConvertRadiansToDegrees.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\obj\Debug\netcoreapp2.1\ConvertRadiansToDegrees.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\obj\Debug\netcoreapp2.1\ConvertRadiansToDegrees.dll
+C:\Users\konsio\Desktop\da\ConvertRadiansToDegrees\ConvertRadiansToDegrees\obj\Debug\netcoreapp2.1\ConvertRadiansToDegrees.pdb

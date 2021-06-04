@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Choreography\Choreography\bin\Debug\netcoreapp2.1\Choreography.deps.json
+C:\Users\konsio\Desktop\da\Choreography\Choreography\bin\Debug\netcoreapp2.1\Choreography.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Choreography\Choreography\bin\Debug\netcoreapp2.1\Choreography.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Choreography\Choreography\bin\Debug\netcoreapp2.1\Choreography.dll
+C:\Users\konsio\Desktop\da\Choreography\Choreography\bin\Debug\netcoreapp2.1\Choreography.pdb
+C:\Users\konsio\Desktop\da\Choreography\Choreography\obj\Debug\netcoreapp2.1\Choreography.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Choreography\Choreography\obj\Debug\netcoreapp2.1\Choreography.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Choreography\Choreography\obj\Debug\netcoreapp2.1\Choreography.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Choreography\Choreography\obj\Debug\netcoreapp2.1\Choreography.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Choreography\Choreography\obj\Debug\netcoreapp2.1\Choreography.dll
+C:\Users\konsio\Desktop\da\Choreography\Choreography\obj\Debug\netcoreapp2.1\Choreography.pdb

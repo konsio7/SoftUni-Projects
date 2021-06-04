@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.deps.json
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.dll
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\bin\Debug\netcoreapp2.1\Volleyball.pdb
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.dll
+C:\Users\konsio\Desktop\da\Volleyball\Volleyball\obj\Debug\netcoreapp2.1\Volleyball.pdb

@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.deps.json
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.runtimeconfig.json
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.dll
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.pdb
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.dll
+C:\Users\konsio\Desktop\da\SumSeconds\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.pdb

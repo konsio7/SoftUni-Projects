@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.deps.json
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.runtimeconfig.json
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.dll
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\bin\Debug\netcoreapp2.1\StadiumIncome.pdb
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.dll
+C:\Users\konsio\Desktop\da\StadiumIncome\StadiumIncome\obj\Debug\netcoreapp2.1\StadiumIncome.pdb

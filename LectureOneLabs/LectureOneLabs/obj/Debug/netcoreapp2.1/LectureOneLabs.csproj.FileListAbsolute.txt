@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\bin\Debug\netcoreapp2.1\LectureOneLabs.deps.json
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\bin\Debug\netcoreapp2.1\LectureOneLabs.runtimeconfig.json
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\bin\Debug\netcoreapp2.1\LectureOneLabs.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\bin\Debug\netcoreapp2.1\LectureOneLabs.dll
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\bin\Debug\netcoreapp2.1\LectureOneLabs.pdb
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\obj\Debug\netcoreapp2.1\LectureOneLabs.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\obj\Debug\netcoreapp2.1\LectureOneLabs.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\obj\Debug\netcoreapp2.1\LectureOneLabs.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\obj\Debug\netcoreapp2.1\LectureOneLabs.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\obj\Debug\netcoreapp2.1\LectureOneLabs.dll
+C:\Users\konsio\Desktop\da\LectureOneLabs\LectureOneLabs\obj\Debug\netcoreapp2.1\LectureOneLabs.pdb

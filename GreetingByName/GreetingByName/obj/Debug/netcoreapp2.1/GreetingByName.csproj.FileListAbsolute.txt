@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.deps.json
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.runtimeconfig.json
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.dll
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.pdb
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.dll
+C:\Users\konsio\Desktop\da\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.pdb

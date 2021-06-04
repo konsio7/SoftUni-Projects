@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.deps.json
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.json
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\bin\Debug\netcoreapp2.1\RectangleArea.pdb
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.dll
+C:\Users\konsio\Desktop\da\RectangleArea\RectangleArea\obj\Debug\netcoreapp2.1\RectangleArea.pdb

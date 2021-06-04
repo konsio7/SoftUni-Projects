@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\bin\Debug\netcoreapp2.1\ContactList.deps.json
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\bin\Debug\netcoreapp2.1\ContactList.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\bin\Debug\netcoreapp2.1\ContactList.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\bin\Debug\netcoreapp2.1\ContactList.dll
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\bin\Debug\netcoreapp2.1\ContactList.pdb
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\obj\Debug\netcoreapp2.1\ContactList.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\obj\Debug\netcoreapp2.1\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\obj\Debug\netcoreapp2.1\ContactList.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\obj\Debug\netcoreapp2.1\ContactList.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\obj\Debug\netcoreapp2.1\ContactList.dll
+C:\Users\konsio\Desktop\da\ExamArrays\ContactList\obj\Debug\netcoreapp2.1\ContactList.pdb

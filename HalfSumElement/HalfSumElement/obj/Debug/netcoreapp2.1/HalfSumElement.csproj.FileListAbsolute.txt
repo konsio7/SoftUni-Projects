@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.deps.json
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.runtimeconfig.json
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.dll
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.pdb
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.dll
+C:\Users\konsio\Desktop\da\HalfSumElement\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.pdb

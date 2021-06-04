@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\Vacation\Vacation\bin\Debug\netcoreapp2.1\Vacation.deps.json
+C:\Users\konsio\Desktop\da\Vacation\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.json
+C:\Users\konsio\Desktop\da\Vacation\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\Vacation\Vacation\bin\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\konsio\Desktop\da\Vacation\Vacation\bin\Debug\netcoreapp2.1\Vacation.pdb
+C:\Users\konsio\Desktop\da\Vacation\Vacation\obj\Debug\netcoreapp2.1\Vacation.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\Vacation\Vacation\obj\Debug\netcoreapp2.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\Vacation\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\Vacation\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\Vacation\Vacation\obj\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\konsio\Desktop\da\Vacation\Vacation\obj\Debug\netcoreapp2.1\Vacation.pdb

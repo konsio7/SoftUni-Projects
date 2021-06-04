@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\bin\Debug\netcoreapp2.1\USDToBGNConvert.deps.json
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\bin\Debug\netcoreapp2.1\USDToBGNConvert.runtimeconfig.json
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\bin\Debug\netcoreapp2.1\USDToBGNConvert.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\bin\Debug\netcoreapp2.1\USDToBGNConvert.dll
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\bin\Debug\netcoreapp2.1\USDToBGNConvert.pdb
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\obj\Debug\netcoreapp2.1\USDToBGNConvert.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\obj\Debug\netcoreapp2.1\USDToBGNConvert.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\obj\Debug\netcoreapp2.1\USDToBGNConvert.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\obj\Debug\netcoreapp2.1\USDToBGNConvert.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\obj\Debug\netcoreapp2.1\USDToBGNConvert.dll
+C:\Users\konsio\Desktop\da\USDToBGNConvert\USDToBGNConvert\obj\Debug\netcoreapp2.1\USDToBGNConvert.pdb

@@ -1,0 +1,10 @@
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\bin\Debug\netcoreapp2.1\NumberHundredToTwoHundred.deps.json
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\bin\Debug\netcoreapp2.1\NumberHundredToTwoHundred.runtimeconfig.json
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\bin\Debug\netcoreapp2.1\NumberHundredToTwoHundred.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\bin\Debug\netcoreapp2.1\NumberHundredToTwoHundred.dll
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\bin\Debug\netcoreapp2.1\NumberHundredToTwoHundred.pdb
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\obj\Debug\netcoreapp2.1\NumberHundredToTwoHundred.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\obj\Debug\netcoreapp2.1\NumberHundredToTwoHundred.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\obj\Debug\netcoreapp2.1\NumberHundredToTwoHundred.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\obj\Debug\netcoreapp2.1\NumberHundredToTwoHundred.dll
+C:\Users\konsio\Desktop\da\NumberHundredToTwoHundred\NumberHundredToTwoHundred\obj\Debug\netcoreapp2.1\NumberHundredToTwoHundred.pdb

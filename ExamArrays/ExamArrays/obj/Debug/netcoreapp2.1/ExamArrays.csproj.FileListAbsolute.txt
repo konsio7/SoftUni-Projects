@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\bin\Debug\netcoreapp2.1\ExamArrays.deps.json
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\bin\Debug\netcoreapp2.1\ExamArrays.runtimeconfig.json
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\bin\Debug\netcoreapp2.1\ExamArrays.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\bin\Debug\netcoreapp2.1\ExamArrays.dll
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\bin\Debug\netcoreapp2.1\ExamArrays.pdb
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\obj\Debug\netcoreapp2.1\ExamArrays.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\obj\Debug\netcoreapp2.1\ExamArrays.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\obj\Debug\netcoreapp2.1\ExamArrays.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\obj\Debug\netcoreapp2.1\ExamArrays.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\obj\Debug\netcoreapp2.1\ExamArrays.dll
+C:\Users\konsio\Desktop\da\ExamArrays\ExamArrays\obj\Debug\netcoreapp2.1\ExamArrays.pdb

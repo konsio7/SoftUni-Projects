@@ -1,0 +1,11 @@
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.deps.json
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.runtimeconfig.json
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.dll
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.pdb
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.csprojAssemblyReference.cache
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.dll
+C:\Users\konsio\Desktop\da\TrainTheTrainers\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.pdb
